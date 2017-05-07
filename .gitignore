@@ -1,0 +1,6 @@
+local.properties
+build
+app/.externalNativeBuild
+app/src/androidTest
+app/src/test
+*.iml
